@@ -1,4 +1,1 @@
-Simple Rock Paper Scissors Game
-
-
-Html,javascript.
+A very simple Rock-Paper-Scissors game written in basic HTML and JavaScript.
